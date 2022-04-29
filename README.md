@@ -1,5 +1,7 @@
 # Swiperjs7-Nuxt
 ## Example How to make Swiper JS 7 work with Nuxt Js 2
+Here is an updated example [How to make it work with Swiper 8](https://github.com/seosmmbusiness/NuxtJs-SwiperJs8) 
+
 Thanks to [Nestor Vera](https://github.com/hacknug)
 
 Just add `build.standalone: true` in `nuxt.config.js` and use the same code as written in [NuxtJs-SwiperJs](https://github.com/seosmmbusiness/NuxtJs-SwiperJs) to make it work.
